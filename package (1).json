@@ -1,0 +1,12 @@
+{
+  "name": "visitor-ip-log",
+  "version": "1.0.0",
+  "description": "Simple site that records visitor IPs and shows them on a password-protected admin page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
